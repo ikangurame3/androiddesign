@@ -4,7 +4,7 @@
 	"license": {
 		"startdate": "2018-01-02 00:00:00",
 		"warningdate": "2018-12-30 00:00:00",
-		"enddate": "2019-01-01 00:00:00",
-		"active": true
+		"enddate": "2018-01-01 00:00:00",
+		"active": false
 	}
 }
