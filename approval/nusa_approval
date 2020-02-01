@@ -1,12 +1,10 @@
 {
 	"success": true,
-	"message": " Coba Lagi Raw",
-	"timerbeforelock": "NO",
-	"lockstatus": "NO",
-	"a_lock_db": "NO",
-	"a_lock_lc": "NO",
-	"lockdate": "2021-01-01 00:01:01",
+	"message": "Aplikasi sudah tidak dalam pengembangan, silahkan menghubungi IT yang bersangkutan",
 	"license": {
-		"extx":true
+		"startdate": "2018-01-02 10:10:10",
+		"warningdate": "2018-12-20 10:10:10",
+		"enddate": "2018-07-12 12:10:10",
+		"active": true
 	}
 }
